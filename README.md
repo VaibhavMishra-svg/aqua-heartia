@@ -1,3 +1,3 @@
 # aqua-heartia
 
-This is my personal webpage aka Portfolio.
+This is my Portfolio.
